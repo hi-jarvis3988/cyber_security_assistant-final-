@@ -1,0 +1,18 @@
+ 
+# Flutter
+.dart_tool/
+.packages
+build/
+ios/Pods/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Backend Python
+__pycache__/
+*.pyc
+env/
+venv/
+
+# General
+.env
+*.log
